@@ -1,0 +1,14 @@
+.container{
+    margin-top: 50px;
+}
+
+#save-btn{
+    width: 100%;
+    background-color: red;
+}
+
+li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
